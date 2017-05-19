@@ -1,0 +1,108 @@
+.box {
+	height: 400px;
+	width: 400px;
+	background-color: #f3f3f3;
+	margin: auto;
+	margin-top: 100px;
+	position: relative;
+	text-decoration: transparent;
+}
+
+#one {
+	height: 133px;
+	width: 133px;
+	border-style: solid;
+	border-color: black;
+	position: absolute;
+	border-top-color: transparent;
+	border-left-color: transparent;
+}
+#two {
+	height: 133px;
+	width: 133px;
+	border-style: solid;
+	border-color: black;
+	margin-left: 133px;
+	position: absolute;
+	border-top-color: transparent;
+}
+#three {
+	height: 133px;
+	width: 133px;
+	margin-top: 0;
+	border-style: solid;
+	border-color: black;
+	margin-left: 266px;
+	position: absolute;	
+	border-right: transparent;
+	border-top-color: transparent;
+}
+#four {
+	height: 133px;
+	width: 133px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 133px;
+	position: absolute;
+	border-left-color: transparent;
+}
+#five {
+	height: 133px;
+	width: 133px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 133px;
+	margin-left: 133px;
+	position: absolute;
+}
+#six {
+	height: 133px;
+	width: 133px;
+	margin-top: 133px;
+	border-style: solid;
+	border-color: black;
+	margin-left: 266px;
+	position: absolute;	
+	border-right: transparent;
+}
+#seven {
+	height: 133px;
+	width: 133px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 266px;
+	position: absolute;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+}
+#eight {
+	height: 133px;
+	width: 133px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 266px;
+	margin-left: 133px;
+	position: absolute;
+	border-bottom-color: transparent;
+}
+#nine {
+	height: 133px;
+	width: 133px;
+	margin-top: 266px;
+	border-style: solid;
+	border-color: black;
+	margin-left: 266px;
+	position: absolute;	
+	border-right: transparent;
+	border-bottom-color: transparent;
+}
+
+p {
+	visibility: hidden;
+}
+
+#heading {
+	height: 100px;
+	width: 400px;
+	padding-left: 470px;
+}
